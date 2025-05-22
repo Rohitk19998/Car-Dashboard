@@ -8,7 +8,7 @@ A dynamic,interactive data visualization tool to built to explore data To effect
 2. Objective-
  The objective of this project is to design and devlope a dynamic car sales Dashboard using power bi The dashboard will visualize critical KPIs related to our car Sales,helping us understand our sales performance over time and make Data-driven descisions
 
-3.Tech Stack
+3. Tech Stack
 Example:
 *Power BI Desktop - Main Data Visulization platform platform used for report creation.
 *Power Query - Data Transformation and cleaning layer for reshaping and preparing the data.
