@@ -66,4 +66,8 @@ Slicers:
 👤 Author
 Rohit Deepak Kolhapure
 •	Email: rkolhapure271@gmail.com
+Demo Picture
+https://github.com/Rohitk19998/Car-Dashboard/blob/main/Snap%20Chat%20of%20Dashboard.png
+
+
 
